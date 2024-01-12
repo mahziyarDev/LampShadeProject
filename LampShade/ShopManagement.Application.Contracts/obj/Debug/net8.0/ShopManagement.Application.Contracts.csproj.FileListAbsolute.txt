@@ -1,0 +1,16 @@
+E:\atria\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.deps.json
+E:\atria\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+E:\atria\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+E:\atria\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.dll
+E:\atria\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.pdb
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.sourcelink.json
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.dll
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\refint\ShopManagement.Application.Contracts.dll
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+E:\atria\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ref\ShopManagement.Application.Contracts.dll
