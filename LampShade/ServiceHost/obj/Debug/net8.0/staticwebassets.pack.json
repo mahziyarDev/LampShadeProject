@@ -165,6 +165,10 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css"
     },
     {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\persian-datepicker.min.css"
+    },
+    {
       "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style-responsive.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\style-responsive.css"
     },
@@ -817,6 +821,10 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\npm.js"
     },
     {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\site.js"
+    },
+    {
       "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\skycons.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\skycons.min.js"
     },
@@ -1031,6 +1039,62 @@
     {
       "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\toggles\\toggles.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\toggles\\toggles.min.js"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
       "Id": "E:\\atria\\LampShade\\ServiceHost\\wwwroot\\css\\site.css",

@@ -263,3 +263,4 @@ E:\atria\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.pdb
 E:\atria\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.genruntimeconfig.cache
 E:\atria\LampShade\ServiceHost\obj\Debug\net8.0\ref\ServiceHost.dll
 E:\atria\LampShade\ServiceHost\obj\Debug\net8.0\scopedcss\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\atria\LampShade\servicehost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
